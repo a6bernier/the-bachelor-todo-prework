@@ -1,5 +1,7 @@
 def get_first_name_of_season_winner(data, season)
-  # code here
+  get_first_name_of_season_winner.each do |season|
+    get_first_name_of_season_winner.each do |name|
+      name.split("") 
 end
 
 def get_contestant_name(data, occupation)
